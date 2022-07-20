@@ -13,7 +13,6 @@
 <h2>Uso:</h2>
 <li>Debes editar la linea 219 en el archivo sick.py</a>, en donde dice <strong>tu_token</strong> debes poner tu token de la API de <a href="https://anonfiles.com/register">AnonFiles</a></li>
 <br/>
-<img src="https://i.ibb.co/KWsHQT7/carbon.png"/>
 
 <li>Si deseas, puedes convertir el archivo a .exe con el archivo build.py</a></li>
 <hr/>
